@@ -1,13 +1,11 @@
-Flask
-tensorflow
+flask
+flask-wtf
+tensorflow2.0.0a0
 numpy
 pandas
 matplotlib
 opencv-python
 gunicorn
 sklearn
-PyYAML
-evidently
-dill
 
-#git+https://github.com/tensorflow/tensorflow.git
+
