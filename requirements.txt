@@ -1,5 +1,5 @@
 Flask
-tensorflow-cpu
+tensorflow
 numpy
 pandas
 matplotlib
@@ -10,3 +10,4 @@ PyYAML
 evidently
 dill
 
+#git+https://github.com/tensorflow/tensorflow.git
