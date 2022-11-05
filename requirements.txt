@@ -9,4 +9,4 @@ sklearn
 PyYAML
 evidently
 dill
-$ heroku create --buildpack https://github.com/tensorflow/tensorflow.git
+
