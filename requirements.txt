@@ -1,0 +1,11 @@
+Flask
+tensorflow
+numpy
+pandas
+matplotlib
+opencv-python
+gunicorn
+sklearn
+PyYAML
+evidently
+dill
