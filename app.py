@@ -52,7 +52,7 @@ def model_predict(img_path, model):
     preds = model.predict(x)
     preds=preds.argmax()
     if preds==0:
-        preds="EMOTION--->> Anger"
+        preds="EMOTION--->> most Anger"
     elif preds==1:
         preds="EMOTION--->> Disgust"
     elif preds==2:
