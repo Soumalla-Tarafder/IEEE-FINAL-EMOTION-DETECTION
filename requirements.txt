@@ -1,11 +1,9 @@
 flask
-flask-wtf
-tensorflow2.0.0a0
+tensorflow-cpu
 numpy
 pandas
 matplotlib
 opencv-python
-gunicorn
 sklearn
 
 
